@@ -7,7 +7,7 @@ Wikissä on koottuna materiaalia!
 * Pe 12.5. **Oppimistehtävät verkossa.** Satu Aksovaara, JAMK
 https://connect.funet.fi/digipedago
 
-* **Monimuoto-opintojakson toteutusten kokemuksia ja hyviä käytänteistä**, 
+* **Monimuoto-opintojakson toteutusten kokemuksia ja hyviä käytänteitä**, 
 torstaina 18.5. klo 8.30-11.15 Auditoriossa, Dynamo, Piippukatu 2
 
 klo  8.30-9.30    Lehtori Sirpa Hukari, Teollisuustekniikka, Industrial Engineering
