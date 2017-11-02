@@ -16,7 +16,7 @@ Myös **eAMK** (avoimen AMK:n kautta tarjottavat opintojaksot) tulee vaatimaan j
 1. **Tutustu monimuodon eri toteutuksiin**, wikistä löytyy lisätietoa [Wikissä](https://github.com/nikar/Monimuoto/wiki)! eli opiskele asia (tämäkin on resursseihin kuuluvaa)!
 1. Muista myös Pedagogit mm. [Tarja Moilanen](tarja.moilanen@jamk.fi) ja IT:n koordinoija [Kari Niemi](kari.niemi@jamk.fi), heiltä kannattaa kysyä apua tarvittaessa. 
 1. Seuraa myös Intran [henkilöstökoulututuksia](https://intra.jamk.fi/hr/Sivut/Henkil%c3%b6st%c3%b6koulutukset.aspx) mm.:
-   1. [Ryhmätyöskentely Connectissa (2h)](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=180)
-   1. [Tehosta Optiman käyttöäsi –työpaja ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=198)
-   1. [Connect-huoneen hallinnointi ja asetukset (1,5h) ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=181)
+   1. [Ryhmätyöskentely Connectissa (2h)](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=180) 7.11.2017 14:00 
+   1. [Tehosta Optiman käyttöäsi –työpaja ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=198)  17.11.2017 8:30 
+   1. [Connect-huoneen hallinnointi ja asetukset (1,5h) ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=181) 30.11.2017 8:30 
 
