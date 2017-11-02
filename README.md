@@ -1,21 +1,13 @@
-# Monimuoto
-IT-instituutin monimuotomatskua
+# IT-instituutin monimuodosta
 
-Wikissä on koottuna materiaalia!
+Syksyllä 2018 alkaa monimuotototeutus ohjelmistotekniikkaan painottuen. Teknologiayksikön ja IT-instituutin johto on osittain tästä syystä päättänyt tarjota mahdollisuuden kehittää monimuotoista materiaalia ensi syksyä ajatellen ja antanut tähän myös resurssia.
 
-# Ajankohtaista
-* Pe 12.5. **Oppimistehtävät verkossa.** Satu Aksovaara, JAMK
-https://connect.funet.fi/digipedago
+## Mistä lähteä liikkeelle?
 
-* **Monimuoto-opintojakson toteutusten kokemuksia ja hyviä käytänteitä**, 
-torstaina 18.5. klo 8.30-11.15 Auditoriossa, Dynamo, Piippukatu 2
+1. Ensin kannattaa miettiä, mikä opintojakso(t) on kehityksen kohteena. Pistä siitä tiedot oheiseen jaettuun [Exceliin](https://jamkstudent-my.sharepoint.com/personal/kari_niemi_jamk_fi/_layouts/15/guestaccess.aspx?docid=111d9e32cb8414381b8c6a04417ead2f6&authkey=Ac19Z3j9QhODCLzD3Z0b2WE&e=52989e12822949b2903b34b5ddc3cac2) (online edit)
+1. **Pidä kirjaa siitä, mihin tehtäviin resurssit kohdentuvat** (tämä on hyvä silloin, jos työnantaja vaatii selvitystä)! Esim. Excel-voisi olla hyvä (tai googlen sheet)
+1. **Tutustu monimuodon eri toteutuksiin**, wikistä löytyy lisätietoa [Wikissä](https://github.com/nikar/Monimuoto/wiki)! eli opiskele asia (tämäkin on resursseihin kuuluvaa)!
 
-klo  8.30-9.30    Lehtori Sirpa Hukari, Teollisuustekniikka, Industrial Engineering
-klo  9.30-9.45    Tauko
-klo  9.45-10.45  Lehtori Satu Aksovaara, Ammatillinen opettajakorkeakoulu
-klo 10.50-11.15 Miten tästä eteenpäin?
-
-* http://jamk-it.github.io
-Keskiviikkona 31.5. alustavasti koulutuspäivä klo 8.30-14 git-hubin monimuotototeutusten kokoamisessa http://jamk-it.github.io/courses.html
+jatkuu....
 
 
