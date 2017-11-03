@@ -20,3 +20,5 @@ Myös **eAMK** (avoimen AMK:n kautta tarjottavat opintojaksot) tulee vaatimaan j
    1. [Tehosta Optiman käyttöäsi –työpaja ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=198)  17.11.2017 8:30 
    1. [Connect-huoneen hallinnointi ja asetukset (1,5h) ](https://intra.jamk.fi/kouke/Lists/Koulutuksen%20kehittmisen%20tapahtumat/DispForm.aspx?ID=181) 30.11.2017 8:30 
 
+## Seuraavaksi
+Seuraavaksi voitkin lähteä [Wikin](https://github.com/nikar/Monimuoto/wiki) puolelle!
