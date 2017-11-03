@@ -6,13 +6,13 @@ Myös **eAMK** (avoimen AMK:n kautta tarjottavat opintojaksot) tulee vaatimaan j
 
 ## Mistä lähteä liikkeelle?
 
-1. Mieti, mi(t)kä opintojakso(t) on kehityksen kohteena. Pistä siitä tiedot oheiseen jaettuun [Exceliin](https://jamkstudent-my.sharepoint.com/personal/kari_niemi_jamk_fi/_layouts/15/guestaccess.aspx?docid=111d9e32cb8414381b8c6a04417ead2f6&authkey=Ac19Z3j9QhODCLzD3Z0b2WE&e=52989e12822949b2903b34b5ddc3cac2) (online edit). Jos ja kun toteutus etenee, niin voit päivittää exceliä, missä ollaan menossa ja laittaa linkin toteutukseen.
+1. **Mieti, mi(t)kä opintojakso(t) on kehityksen kohteena.** Pistä siitä tiedot oheiseen jaettuun [Exceliin](https://jamkstudent-my.sharepoint.com/personal/kari_niemi_jamk_fi/_layouts/15/guestaccess.aspx?docid=111d9e32cb8414381b8c6a04417ead2f6&authkey=Ac19Z3j9QhODCLzD3Z0b2WE&e=52989e12822949b2903b34b5ddc3cac2) (online edit). Jos ja kun toteutus etenee, niin voit päivittää exceliä, missä ollaan menossa ja laittaa linkin toteutukseen.
 1. Selvitä itsellesi, **mitä monimuoto käytännössä on ja mitä se vaatii** lisätietoa löytyy [wiki](https://github.com/nikar/Monimuoto/wiki)
-1. Mihin ympäristöihin materiaali tuotetaan (esim. [jamk-it.github.io](http://jamk-it.github.io/courses.html), optima, Web-sivut, videot kannattaa laittaa suoraan [Youtubeen] http://youtube.com tms.?)
-   1. Tietoperustan monimuoto (esim. videoluennot, mitä materiaalia) 
-   1. Tietoperustakertojen tehtävät, millä voidaan todeta tärkeimpien asioiden hallinta/ymmärtäminen (vapaa teksti, monivalinta tms.) 
-   1. Harjoitustehtävät (miten pitää muuttaa, tarjota lisäohjeistusta esim. videoilla tms., mihin palautetaan esim. optiman palautuslaatikko)
-1. Miten kukin viikkokerta toteutetaan (videoluento streamattuna esim. adobe acrobat, videoluento tallenteena). 
+1. **Mihin ympäristöihin materiaali tuotetaan** (esim. [jamk-it.github.io](http://jamk-it.github.io/courses.html), optima, Web-sivut, videot kannattaa laittaa suoraan [Youtubeen] http://youtube.com tms.?)
+   1. **Tietoperustan** monimuoto (esim. videoluennot, mitä materiaalia) 
+   1. Tietoperustakertojen **tehtävät**, millä voidaan todeta tärkeimpien asioiden hallinta/ymmärtäminen (vapaa teksti, monivalinta tms.) 
+   1. **Harjoitustehtävät** (miten pitää muuttaa, tarjota lisäohjeistusta esim. videoilla tms., mihin palautetaan esim. optiman palautuslaatikko)
+1. Miten kukin viikkokerta toteutetaan (videoluento streamattuna esim. adobe acrobat, videoluento tallenteena, hybridimalli). 
 1. **Pidä kirjaa siitä, mihin tehtäviin resurssit kohdentuvat** (tämä on hyvä silloin, jos työnantaja vaatii selvitystä)! Esim. Excel-voisi olla hyvä (tai googlen sheet)
 1. Muista myös Pedagogit mm. [Tarja Moilanen](tarja.moilanen@jamk.fi) ja IT:n koordinoija [Kari Niemi](kari.niemi@jamk.fi), heiltä kannattaa kysyä apua tarvittaessa. 
 1. Seuraa myös Intran [henkilöstökoulututuksia](https://intra.jamk.fi/hr/Sivut/Henkil%c3%b6st%c3%b6koulutukset.aspx) mm.:
