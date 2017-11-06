@@ -1,3 +1,3 @@
 # IT-instituutin monimuodosta
 
-Siirry suoraan [Wikiin](https://github.com/nikar/Monimuoto/wiki)!
+Siirry suoraan [Wikiin](https://github.com/JAMK-IT/IT-Monimuoto/wiki)!
